@@ -1,0 +1,19 @@
+{
+  "checked_at_utc": "2026-10-25T15:22:35.743880+00:00",
+  "all_checks_pass": true,
+  "tests": {
+    "tests": 38,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "source_comparison_checked_at_utc": "2026-10-25T14:58:05.651785+00:00",
+  "raw_hashes_match": true,
+  "cleaning_audit_matches": true,
+  "flow_cost_and_capacity_checks_pass": true,
+  "executed_notebook_code_cells": 18,
+  "notebook_errors": 0,
+  "narrative_cell_type": "markdown",
+  "simulation_scenarios_per_network": 500,
+  "scope": "Checks apply to the saved exercise run; synthetic assumptions remain explicitly labeled."
+}

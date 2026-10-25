@@ -1,0 +1,90 @@
+{
+  "checked_at_utc": "2026-10-25T14:58:05.651785+00:00",
+  "checks": [
+    {
+      "file": "data\\raw\\ACSDT5Y2023.B01003.csv",
+      "source_url": "https://data.census.gov/api/access/data/table",
+      "table": "ACSDT5Y2023.B01003",
+      "columns_compared": [
+        "GEO_ID",
+        "NAME",
+        "B01003_001E"
+      ],
+      "cached_rows": 534,
+      "source_rows": 534,
+      "all_compared_values_match": true
+    },
+    {
+      "file": "data\\raw\\CBP2022.CB2200CBP_naics493.csv",
+      "source_url": "https://data.census.gov/api/access/data/table",
+      "table": "CBP2022.CB2200CBP",
+      "columns_compared": [
+        "GEO_ID",
+        "NAICS2017",
+        "EMPSZES",
+        "LFO",
+        "ESTAB",
+        "EMP",
+        "EMP_F"
+      ],
+      "cached_rows": 522,
+      "source_rows": 522,
+      "all_compared_values_match": true
+    },
+    {
+      "file": "data\\raw\\bts_truck_travel_times_2024_f41b754980.json",
+      "source_url": "https://data.bts.gov/resource/uta5-4eu5.json?%24where=origin_county_fips+in%28%271073%27%2C%271097%27%2C%271101%27%2C%2712031%27%2C%2712073%27%2C%2712086%27%2C%2712095%27%2C%2712105%27%2C%2713021%27%2C%2713051%27%2C%2713121%27%2C%2713151%27%2C%2737081%27%2C%2737119%27%2C%2737183%27%2C%2745019%27%2C%2745045%27%2C%2745079%27%2C%2747037%27%2C%2747065%27%2C%2747093%27%2C%2747157%27%29+AND+dest_county_fips+in%28%2712086%27%2C%2712011%27%2C%2712099%27%2C%2712057%27%2C%2712095%27%2C%2737183%27%2C%2737119%27%2C%2713121%27%2C%2712031%27%2C%2713135%27%2C%2712103%27%2C%2747157%27%2C%2712071%27%2C%2713067%27%2C%2713089%27%2C%2712105%27%2C%2747037%27%2C%271073%27%2C%2712009%27%2C%2712101%27%2C%2712127%27%2C%2737081%27%2C%2745045%27%2C%2747093%27%2C%2712117%27%2C%2712115%27%2C%2745079%27%2C%2712081%27%2C%2745019%27%2C%271097%27%2C%2712097%27%2C%2712069%27%2C%271089%27%2C%2712083%27%2C%2712021%27%2C%2737067%27%2C%2747065%27%2C%2745051%27%2C%2747149%27%2C%2712111%27%2C%2745083%27%2C%2737051%27%2C%2737063%27%2C%2712033%27%2C%2745063%27%2C%2713063%27%2C%2713051%27%2C%2712073%27%2C%2712109%27%2C%2745091%27%2C%2712001%27%2C%2713057%27%2C%2737021%27%2C%2713117%27%2C%2747187%27%2C%2713151%27%2C%2737179%27%2C%271003%27%2C%2745015%27%2C%271125%27%29&%24limit=50000",
+      "title": "BTS ATRI Freight Mobility Initiative: County-to-county truck travel times (2024) - Experimental",
+      "description": "Experimental estimates of the travel times experienced by a sample of freight trucks observed moving between all county pairs in the United States over the course of calendar year 2024.\n\nEstimated by parsing GPS pings collected from a sample of approximately 300,000 trucks as part of the BTS ATRI Freight Mobility Initiative, these travel times were estimated (1) using the amount of elapsed time between the times that a truck was observed sequentially departing and arriving in each named county pair and (2) calculating 25th, 50th, and 75th travel times for all trucks observed moving between those counties over the course of 2024.",
+      "columns_compared": [
+        "origin_county_fips",
+        "dest_county_fips",
+        "year",
+        "pair_moves",
+        "tt_percentile_25",
+        "tt_percentile_50",
+        "tt_percentile_75"
+      ],
+      "cached_rows": 1300,
+      "source_rows": 1300,
+      "all_compared_values_match": true
+    },
+    {
+      "file": "data\\raw\\CenPop2020_Mean_CO.txt",
+      "source_url": "https://www2.census.gov/geo/docs/reference/cenpop2020/county/CenPop2020_Mean_CO.txt",
+      "all_compared_values_match": true
+    },
+    {
+      "file": "data\\raw\\2023_Gaz_counties_national.zip",
+      "source_url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_Gaz_counties_national.zip",
+      "all_compared_values_match": true
+    }
+  ],
+  "all_checks_pass": true,
+  "raw_file_hashes": [
+    {
+      "file": "data\\raw\\2023_Gaz_counties_national.zip",
+      "sha256": "919df59ba90759cce85468c0337e898e4b39c08eaffce86ddd88fa41f1f7f0c8"
+    },
+    {
+      "file": "data\\raw\\ACSDT5Y2023.B01003.csv",
+      "sha256": "bed23b6b0d30d1c4bf74ce0adffdc0eae766af40242ffd5c58698d5f276c49d2"
+    },
+    {
+      "file": "data\\raw\\bts_truck_travel_times_2024_f41b754980.json",
+      "sha256": "424a8df5a8b8f5908f56b0d49118817d59091a58f143fd7bd3133a65f8f76cbb"
+    },
+    {
+      "file": "data\\raw\\cb_2023_us_state_20m.zip",
+      "sha256": "0a272527261a71ca26c1453480da63eafacf38a9bb2cab874ddc8ae1d2d74c55"
+    },
+    {
+      "file": "data\\raw\\CBP2022.CB2200CBP_naics493.csv",
+      "sha256": "577be54a53082c64dddbc63931c3bef39716744e05ea2b1c96c23ca1d056f3a1"
+    },
+    {
+      "file": "data\\raw\\CenPop2020_Mean_CO.txt",
+      "sha256": "4f754a3bda9714e5820d73bfac44ef1dab2b8c371f6c136305474cda7a752014"
+    }
+  ]
+}

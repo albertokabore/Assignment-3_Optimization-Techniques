@@ -1,0 +1,23 @@
+dc,fips,warehouse_estab_cbp2022,warehouse_emp_cbp2022,tier,capacity_pallets_wk,fixed_cost_wk,density_per_sqmi,inbound_miles_from_port,open_in_milp
+"Jefferson, AL",01073,55.0,2554.0,small,7000.0,34590.0,603.0,414.0,True
+"Mobile, AL",01097,30.0,3309.0,large,12000.0,53016.0,336.0,511.0,False
+"Montgomery, AL",01101,26.0,2056.0,small,7000.0,33399.0,289.0,358.0,False
+"Duval, FL",12031,109.0,10519.0,large,12000.0,58924.0,1321.0,149.0,False
+"Leon, FL",12073,8.0,29.0,small,7000.0,33979.0,442.0,258.0,True
+"Miami-Dade, FL",12086,213.0,5092.0,large,12000.0,59480.0,1413.0,524.0,False
+"Orange, FL",12095,111.0,5879.0,large,12000.0,60571.0,1595.0,292.0,True
+"Polk, FL",12105,63.0,12064.0,large,12000.0,53539.0,423.0,335.0,True
+"Bibb, GA",13021,18.0,1410.0,small,7000.0,34685.0,628.0,190.0,False
+"Chatham, GA",13051,83.0,3779.0,large,12000.0,55134.0,689.0,0.0,True
+"Fulton, GA",13121,167.0,16488.0,large,12000.0,63171.0,2029.0,271.0,True
+"Henry, GA",13151,52.0,6224.0,large,12000.0,55620.0,770.0,243.0,False
+"Guilford, NC",37081,56.0,5611.0,large,12000.0,56043.0,841.0,345.0,False
+"Mecklenburg, NC",37119,101.0,6983.0,large,12000.0,63959.0,2160.0,265.0,False
+"Wake, NC",37183,33.0,937.0,small,7000.0,37541.0,1379.0,354.0,True
+"Charleston, SC",45019,46.0,1193.0,small,7000.0,34017.0,452.0,104.0,False
+"Greenville, SC",45045,47.0,1705.0,small,7000.0,34899.0,684.0,247.0,False
+"Richland, SC",45079,20.0,533.0,small,7000.0,34401.0,553.0,168.0,True
+"Davidson, TN",47037,54.0,3040.0,large,12000.0,59459.0,1410.0,513.0,False
+"Hamilton, TN",47065,31.0,988.0,small,7000.0,34900.0,684.0,378.0,False
+"Knox, TN",47093,29.0,1374.0,small,7000.0,35944.0,959.0,380.0,False
+"Shelby, TN",47157,154.0,16581.0,large,12000.0,58268.0,1211.0,656.0,False

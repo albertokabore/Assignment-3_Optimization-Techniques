@@ -1,0 +1,8 @@
+method,demand_met,capacity,balance,sla,only_open_dcs_ship,non_negative
+MILP (exact),True,True,True,True,True,True
+LP relaxation + rounding,True,True,True,True,True,True
+Greedy ADD,True,True,True,True,True,True
+Greedy DROP,True,True,True,True,True,True
+Simulated annealing,True,True,True,True,True,True
+Gradient (snap only),True,True,True,True,True,True
+Gradient (snap + repair),True,True,True,True,True,True

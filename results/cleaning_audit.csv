@@ -1,0 +1,15 @@
+stage,check,input_rows,output_rows,affected_rows,type,action
+Population,County keys and required numeric fields,534,534,0,validation,Five-digit unique FIPS; finite nonnegative integer population; no invalid rows found.
+CBP,Keep all-size / all-legal-form NAICS 493 totals,522,193,329,selection,Exclude employment-size breakdowns; do not sum overlapping totals.
+CBP,Duplicate or flagged county totals,193,193,0,validation,Unique county totals and no EMP_F/ESTAB_F flags; no duplicate records removed.
+County join,Counties without a CBP total,534,534,341,validation,Keep missing warehousing activity unknown; never replace it with zero.
+Geography,Missing county joins / invalid coordinates or land area,534,534,0,validation,Validate one-to-one joins; stop on missing geography; no counties dropped.
+Customers,Most populous study counties,534,60,474,selection,"Select demand zones by population rank; exclusions are scope choices, not bad data."
+Candidates,Manually specified counties,534,22,512,selection,Select the stated candidate list and require reported establishments and employment.
+BTS,FIPS formatting and unique 2024 pairs,1300,1300,0,validation,"Validate normalized five-digit codes, year and pair uniqueness; retain source quartiles."
+BTS,"Negative, missing, or unordered source quartiles",1300,1300,0,validation,Reject invalid source times; retain long nonnegative elapsed times without outlier trimming.
+Routes,Candidate-by-customer grid,1300,1320,20,join,Create every candidate/customer pair and identify absent source pairs.
+Routes,Assumed local delivery time,1320,1320,20,modeling assumption,Assign 30 minutes to same-county modeled times; preserve any original source values.
+Routes,Nonlocal missing-time regression,1320,1320,0,modeling assumption,Fit OLS only if a nonlocal source time is missing; not used when the count is zero.
+Routes,BTS rows changed by the modeled time floor,1320,1320,180,modeling assumption,Apply the assumed centroid-distance / 55-mph floor; raw p50/p75 remain unchanged.
+Processed data,"Missing pairs, duplicate keys, invalid model inputs",1320,1320,0,validation,All required processed values pass validation; source population and candidate CBP values match.

@@ -1,0 +1,523 @@
+EMPSZES_LABEL,PAYQTR1_F,EMP_N,NAICS2017_LABEL,PAYQTR1_N,LFO,YEAR,GEO_ID_F,EMP_F,PAYQTR1_N_F,ESTAB_F,NAICS2017,PAYANN_N,PAYQTR1,NAICS2017_F,EMP,PAYANN_F,PAYANN_N_F,NAME,GEO_ID,LFO_LABEL,ESTAB,EMP_N_F,PAYANN,EMPSZES
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,1352,,158,,G,"Baldwin County, Alabama",0500000US01003,All establishments,8,G,5916,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Baldwin County, Alabama",0500000US01003,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,293,,24,,J,"Blount County, Alabama",0500000US01009,All establishments,3,H,1289,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,1829,,288,,H,"Calhoun County, Alabama",0500000US01015,All establishments,10,H,8644,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Calhoun County, Alabama",0500000US01015,All establishments,5,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,15230,,1240,,J,"Cullman County, Alabama",0500000US01043,All establishments,4,J,46161,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,1336,,119,,G,"Etowah County, Alabama",0500000US01055,All establishments,4,G,5948,001
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Etowah County, Alabama",0500000US01055,All establishments,3,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,1798,,187,,H,"Houston County, Alabama",0500000US01069,All establishments,8,H,7878,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Houston County, Alabama",0500000US01069,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,33607,,2554,,H,"Jefferson County, Alabama",0500000US01073,All establishments,55,G,133083,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Jefferson County, Alabama",0500000US01073,All establishments,18,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Jefferson County, Alabama",0500000US01073,All establishments,13,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Jefferson County, Alabama",0500000US01073,All establishments,10,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Jefferson County, Alabama",0500000US01073,All establishments,7,N,0,241
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Jefferson County, Alabama",0500000US01073,All establishments,3,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,18852,,1944,,H,"Lee County, Alabama",0500000US01081,All establishments,19,G,71722,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lee County, Alabama",0500000US01081,All establishments,8,N,0,210
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lee County, Alabama",0500000US01081,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,22349,,999,,J,"Limestone County, Alabama",0500000US01083,All establishments,8,J,87484,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Limestone County, Alabama",0500000US01083,All establishments,6,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,1186,,137,,J,"Lowndes County, Alabama",0500000US01085,All establishments,3,J,4738,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,5476,,332,,H,"Madison County, Alabama",0500000US01089,All establishments,24,G,23040,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Madison County, Alabama",0500000US01089,All establishments,11,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Madison County, Alabama",0500000US01089,All establishments,6,N,0,220
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Madison County, Alabama",0500000US01089,All establishments,3,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,2247,,222,,G,"Marshall County, Alabama",0500000US01095,All establishments,5,G,10687,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,29029,,3309,,H,"Mobile County, Alabama",0500000US01097,All establishments,30,H,107610,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mobile County, Alabama",0500000US01097,All establishments,5,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mobile County, Alabama",0500000US01097,All establishments,3,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mobile County, Alabama",0500000US01097,All establishments,8,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mobile County, Alabama",0500000US01097,All establishments,8,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mobile County, Alabama",0500000US01097,All establishments,3,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,19803,,2056,,H,"Montgomery County, Alabama",0500000US01101,All establishments,26,H,88892,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Montgomery County, Alabama",0500000US01101,All establishments,9,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Montgomery County, Alabama",0500000US01101,All establishments,5,N,0,220
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Montgomery County, Alabama",0500000US01101,All establishments,4,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Montgomery County, Alabama",0500000US01101,All establishments,3,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,2239,,149,,J,"Morgan County, Alabama",0500000US01103,All establishments,10,J,9214,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Morgan County, Alabama",0500000US01103,All establishments,7,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,10990,,876,,H,"Pike County, Alabama",0500000US01109,All establishments,3,H,40822,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,798,,96,,H,"Russell County, Alabama",0500000US01113,All establishments,4,H,3402,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,318,,31,,H,"Shelby County, Alabama",0500000US01117,All establishments,7,H,1730,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Shelby County, Alabama",0500000US01117,All establishments,5,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,4857,,852,,J,"Talladega County, Alabama",0500000US01121,All establishments,3,J,20640,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,14533,,1448,,G,"Tuscaloosa County, Alabama",0500000US01125,All establishments,13,G,68088,001
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Tuscaloosa County, Alabama",0500000US01125,All establishments,4,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,26900,,2246,,J,"Alachua County, Florida",0500000US12001,All establishments,12,J,93472,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Alachua County, Florida",0500000US12001,All establishments,3,N,0,210
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Alachua County, Florida",0500000US12001,All establishments,3,N,0,230
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,12078,,979,,J,"Baker County, Florida",0500000US12003,All establishments,3,J,41386,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,760,,72,,J,"Bay County, Florida",0500000US12005,All establishments,3,J,3222,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,11409,,1139,,J,"Brevard County, Florida",0500000US12009,All establishments,13,J,55034,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Brevard County, Florida",0500000US12009,All establishments,7,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,45773,,3916,,H,"Broward County, Florida",0500000US12011,All establishments,117,H,198909,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Broward County, Florida",0500000US12011,All establishments,51,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Broward County, Florida",0500000US12011,All establishments,17,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Broward County, Florida",0500000US12011,All establishments,18,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Broward County, Florida",0500000US12011,All establishments,16,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Broward County, Florida",0500000US12011,All establishments,9,N,0,242
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Broward County, Florida",0500000US12011,All establishments,4,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,363,,30,,G,"Charlotte County, Florida",0500000US12015,All establishments,4,J,1358,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,1220,,106,,H,"Clay County, Florida",0500000US12019,All establishments,4,H,5745,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,575,,45,,H,"Collier County, Florida",0500000US12021,All establishments,5,J,2365,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Collier County, Florida",0500000US12021,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,7081,,474,,J,"Columbia County, Florida",0500000US12023,All establishments,3,J,28003,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,78264,,10519,,J,"Duval County, Florida",0500000US12031,All establishments,109,J,371190,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Duval County, Florida",0500000US12031,All establishments,38,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Duval County, Florida",0500000US12031,All establishments,18,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Duval County, Florida",0500000US12031,All establishments,18,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Duval County, Florida",0500000US12031,All establishments,15,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Duval County, Florida",0500000US12031,All establishments,5,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Duval County, Florida",0500000US12031,All establishments,6,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Duval County, Florida",0500000US12031,All establishments,5,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,2188,,187,,H,"Escambia County, Florida",0500000US12033,All establishments,13,H,9259,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Escambia County, Florida",0500000US12033,All establishments,5,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Escambia County, Florida",0500000US12033,All establishments,5,N,0,220
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,16978,,1181,,J,"Hernando County, Florida",0500000US12053,All establishments,3,J,51855,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,30717,,3129,,G,"Hillsborough County, Florida",0500000US12057,All establishments,74,G,143254,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hillsborough County, Florida",0500000US12057,All establishments,29,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hillsborough County, Florida",0500000US12057,All establishments,9,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hillsborough County, Florida",0500000US12057,All establishments,12,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hillsborough County, Florida",0500000US12057,All establishments,11,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hillsborough County, Florida",0500000US12057,All establishments,4,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hillsborough County, Florida",0500000US12057,All establishments,6,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,3489,,288,,J,"Indian River County, Florida",0500000US12061,All establishments,4,J,11962,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,5158,,576,,J,"Jackson County, Florida",0500000US12063,All establishments,4,J,22082,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,7128,,734,,H,"Lake County, Florida",0500000US12069,All establishments,9,H,41525,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lake County, Florida",0500000US12069,All establishments,5,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,7256,,1044,,H,"Lee County, Florida",0500000US12071,All establishments,23,H,36291,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lee County, Florida",0500000US12071,All establishments,8,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lee County, Florida",0500000US12071,All establishments,6,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lee County, Florida",0500000US12071,All establishments,3,N,0,230
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,337,,29,,G,"Leon County, Florida",0500000US12073,All establishments,8,G,1425,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Leon County, Florida",0500000US12073,All establishments,4,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Leon County, Florida",0500000US12073,All establishments,4,N,0,220
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,9062,,1715,,H,"Manatee County, Florida",0500000US12081,All establishments,14,H,37378,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Manatee County, Florida",0500000US12081,All establishments,8,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,8911,,846,,H,"Marion County, Florida",0500000US12083,All establishments,14,H,41186,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Marion County, Florida",0500000US12083,All establishments,6,N,0,210
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Marion County, Florida",0500000US12083,All establishments,3,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,100,,11,,G,"Martin County, Florida",0500000US12085,All establishments,4,G,480,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Martin County, Florida",0500000US12085,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,61666,,5092,,G,"Miami-Dade County, Florida",0500000US12086,All establishments,213,G,259251,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Miami-Dade County, Florida",0500000US12086,All establishments,112,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Miami-Dade County, Florida",0500000US12086,All establishments,23,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Miami-Dade County, Florida",0500000US12086,All establishments,31,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Miami-Dade County, Florida",0500000US12086,All establishments,28,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Miami-Dade County, Florida",0500000US12086,All establishments,7,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Miami-Dade County, Florida",0500000US12086,All establishments,6,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Miami-Dade County, Florida",0500000US12086,All establishments,5,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,66002,,5879,,H,"Orange County, Florida",0500000US12095,All establishments,111,H,263279,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Orange County, Florida",0500000US12095,All establishments,36,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Orange County, Florida",0500000US12095,All establishments,16,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Orange County, Florida",0500000US12095,All establishments,17,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Orange County, Florida",0500000US12095,All establishments,19,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Orange County, Florida",0500000US12095,All establishments,8,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Orange County, Florida",0500000US12095,All establishments,8,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Orange County, Florida",0500000US12095,All establishments,6,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,9531,,986,,J,"Osceola County, Florida",0500000US12097,All establishments,7,J,36133,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Osceola County, Florida",0500000US12097,All establishments,4,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,27400,,2221,,G,"Palm Beach County, Florida",0500000US12099,All establishments,43,G,101974,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Palm Beach County, Florida",0500000US12099,All establishments,19,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Palm Beach County, Florida",0500000US12099,All establishments,4,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Palm Beach County, Florida",0500000US12099,All establishments,6,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Palm Beach County, Florida",0500000US12099,All establishments,4,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Palm Beach County, Florida",0500000US12099,All establishments,4,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Palm Beach County, Florida",0500000US12099,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,125,,9,,H,"Pasco County, Florida",0500000US12101,All establishments,5,G,511,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Pasco County, Florida",0500000US12101,All establishments,4,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,7670,,888,,G,"Pinellas County, Florida",0500000US12103,All establishments,24,H,31783,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Pinellas County, Florida",0500000US12103,All establishments,11,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Pinellas County, Florida",0500000US12103,All establishments,3,N,0,220
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Pinellas County, Florida",0500000US12103,All establishments,4,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Pinellas County, Florida",0500000US12103,All establishments,3,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,129650,,12064,,H,"Polk County, Florida",0500000US12105,All establishments,63,H,541972,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Polk County, Florida",0500000US12105,All establishments,15,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Polk County, Florida",0500000US12105,All establishments,7,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Polk County, Florida",0500000US12105,All establishments,8,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Polk County, Florida",0500000US12105,All establishments,11,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Polk County, Florida",0500000US12105,All establishments,4,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Polk County, Florida",0500000US12105,All establishments,4,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Polk County, Florida",0500000US12105,All establishments,4,N,0,252
+Establishments with 500 to 999 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Polk County, Florida",0500000US12105,All establishments,6,N,0,254
+"Establishments with 1,000 employees or more",N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Polk County, Florida",0500000US12105,All establishments,4,N,0,260
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,715,,76,,J,"St. Johns County, Florida",0500000US12109,All establishments,4,J,3005,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"St. Johns County, Florida",0500000US12109,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,18644,,1281,,J,"St. Lucie County, Florida",0500000US12111,All establishments,7,J,63123,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,4851,,365,,H,"Sarasota County, Florida",0500000US12115,All establishments,11,H,18875,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Sarasota County, Florida",0500000US12115,All establishments,6,N,0,210
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Sarasota County, Florida",0500000US12115,All establishments,3,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,1264,,93,,G,"Seminole County, Florida",0500000US12117,All establishments,10,H,5082,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Seminole County, Florida",0500000US12117,All establishments,3,N,0,210
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Seminole County, Florida",0500000US12117,All establishments,4,N,0,230
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,6344,,509,,J,"Volusia County, Florida",0500000US12127,All establishments,9,J,39025,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Volusia County, Florida",0500000US12127,All establishments,5,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,7176,,547,,J,"Barrow County, Georgia",0500000US13013,All establishments,3,J,27489,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,10789,,531,,J,"Bartow County, Georgia",0500000US13015,All establishments,8,J,55041,001
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Bartow County, Georgia",0500000US13015,All establishments,3,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,10719,,1410,,H,"Bibb County, Georgia",0500000US13021,All establishments,18,J,46994,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Bibb County, Georgia",0500000US13021,All establishments,8,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,286,,17,,H,"Burke County, Georgia",0500000US13033,All establishments,3,J,1441,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,5118,,388,,H,"Carroll County, Georgia",0500000US13045,All establishments,6,H,18885,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,42768,,3779,,G,"Chatham County, Georgia",0500000US13051,All establishments,83,G,198560,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Chatham County, Georgia",0500000US13051,All establishments,22,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Chatham County, Georgia",0500000US13051,All establishments,13,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Chatham County, Georgia",0500000US13051,All establishments,17,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Chatham County, Georgia",0500000US13051,All establishments,18,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Chatham County, Georgia",0500000US13051,All establishments,3,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Chatham County, Georgia",0500000US13051,All establishments,5,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Chatham County, Georgia",0500000US13051,All establishments,5,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,1425,,107,,H,"Cherokee County, Georgia",0500000US13057,All establishments,9,J,6091,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Cherokee County, Georgia",0500000US13057,All establishments,5,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,148,,9,,H,"Clarke County, Georgia",0500000US13059,All establishments,3,J,666,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Clarke County, Georgia",0500000US13059,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,43629,,3473,,H,"Clayton County, Georgia",0500000US13063,All establishments,41,H,197147,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Clayton County, Georgia",0500000US13063,All establishments,14,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Clayton County, Georgia",0500000US13063,All establishments,7,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Clayton County, Georgia",0500000US13063,All establishments,4,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Clayton County, Georgia",0500000US13063,All establishments,6,N,0,241
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Clayton County, Georgia",0500000US13063,All establishments,3,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Clayton County, Georgia",0500000US13063,All establishments,3,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,22513,,2439,,H,"Cobb County, Georgia",0500000US13067,All establishments,54,H,105164,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Cobb County, Georgia",0500000US13067,All establishments,20,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Cobb County, Georgia",0500000US13067,All establishments,11,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Cobb County, Georgia",0500000US13067,All establishments,8,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Cobb County, Georgia",0500000US13067,All establishments,3,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Cobb County, Georgia",0500000US13067,All establishments,8,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Cobb County, Georgia",0500000US13067,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,13359,,1255,,J,"Coffee County, Georgia",0500000US13069,All establishments,6,J,45634,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,56,,3,,J,"Colquitt County, Georgia",0500000US13071,All establishments,3,J,317,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Colquitt County, Georgia",0500000US13071,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,684,,60,,J,"Columbia County, Georgia",0500000US13073,All establishments,5,J,2948,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,18587,,1800,,H,"Coweta County, Georgia",0500000US13077,All establishments,18,G,83926,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Coweta County, Georgia",0500000US13077,All establishments,8,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Coweta County, Georgia",0500000US13077,All establishments,5,N,0,220
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Coweta County, Georgia",0500000US13077,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,603,,82,,J,"Crisp County, Georgia",0500000US13081,All establishments,5,J,2626,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,419,,17,,J,"Decatur County, Georgia",0500000US13087,All establishments,5,J,2104,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Decatur County, Georgia",0500000US13087,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,24811,,2492,,H,"DeKalb County, Georgia",0500000US13089,All establishments,36,H,110031,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"DeKalb County, Georgia",0500000US13089,All establishments,10,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"DeKalb County, Georgia",0500000US13089,All establishments,6,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"DeKalb County, Georgia",0500000US13089,All establishments,8,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"DeKalb County, Georgia",0500000US13089,All establishments,6,N,0,241
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"DeKalb County, Georgia",0500000US13089,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,838,,85,,H,"Dooly County, Georgia",0500000US13093,All establishments,3,H,3257,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,4628,,460,,H,"Dougherty County, Georgia",0500000US13095,All establishments,18,H,19442,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Dougherty County, Georgia",0500000US13095,All establishments,4,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Dougherty County, Georgia",0500000US13095,All establishments,3,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Dougherty County, Georgia",0500000US13095,All establishments,7,N,0,230
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,17009,,1258,,H,"Douglas County, Georgia",0500000US13097,All establishments,18,G,72362,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Douglas County, Georgia",0500000US13097,All establishments,3,N,0,210
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Douglas County, Georgia",0500000US13097,All establishments,3,N,0,241
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Douglas County, Georgia",0500000US13097,All establishments,5,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,8810,,806,,H,"Effingham County, Georgia",0500000US13103,All establishments,17,H,39938,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Effingham County, Georgia",0500000US13103,All establishments,4,N,0,210
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Effingham County, Georgia",0500000US13103,All establishments,5,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Effingham County, Georgia",0500000US13103,All establishments,5,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,2343,,145,,J,"Fayette County, Georgia",0500000US13113,All establishments,4,J,9493,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,9985,,905,,J,"Floyd County, Georgia",0500000US13115,All establishments,4,J,36836,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,2857,,241,,G,"Forsyth County, Georgia",0500000US13117,All establishments,11,G,11899,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Forsyth County, Georgia",0500000US13117,All establishments,8,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,223234,,16488,,H,"Fulton County, Georgia",0500000US13121,All establishments,167,H,905570,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Fulton County, Georgia",0500000US13121,All establishments,47,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Fulton County, Georgia",0500000US13121,All establishments,17,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Fulton County, Georgia",0500000US13121,All establishments,18,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Fulton County, Georgia",0500000US13121,All establishments,34,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Fulton County, Georgia",0500000US13121,All establishments,17,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Fulton County, Georgia",0500000US13121,All establishments,21,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Fulton County, Georgia",0500000US13121,All establishments,8,N,0,252
+"Establishments with 1,000 employees or more",N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Fulton County, Georgia",0500000US13121,All establishments,4,N,0,260
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,393,,25,,J,"Glynn County, Georgia",0500000US13127,All establishments,3,G,1121,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,9463,,724,,H,"Gordon County, Georgia",0500000US13129,All establishments,7,H,37069,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,111771,,5961,,G,"Gwinnett County, Georgia",0500000US13135,All establishments,101,H,386135,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Gwinnett County, Georgia",0500000US13135,All establishments,43,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Gwinnett County, Georgia",0500000US13135,All establishments,10,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Gwinnett County, Georgia",0500000US13135,All establishments,15,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Gwinnett County, Georgia",0500000US13135,All establishments,11,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Gwinnett County, Georgia",0500000US13135,All establishments,7,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Gwinnett County, Georgia",0500000US13135,All establishments,6,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Gwinnett County, Georgia",0500000US13135,All establishments,6,N,0,252
+Establishments with 500 to 999 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Gwinnett County, Georgia",0500000US13135,All establishments,3,N,0,254
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,5171,,616,,J,"Hall County, Georgia",0500000US13139,All establishments,13,H,25303,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hall County, Georgia",0500000US13139,All establishments,4,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hall County, Georgia",0500000US13139,All establishments,3,N,0,220
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hall County, Georgia",0500000US13139,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,784,,73,,H,"Haralson County, Georgia",0500000US13143,All establishments,3,H,3244,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,66571,,6224,,G,"Henry County, Georgia",0500000US13151,All establishments,52,G,291228,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Henry County, Georgia",0500000US13151,All establishments,10,N,0,210
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Henry County, Georgia",0500000US13151,All establishments,3,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Henry County, Georgia",0500000US13151,All establishments,11,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Henry County, Georgia",0500000US13151,All establishments,12,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Henry County, Georgia",0500000US13151,All establishments,10,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Henry County, Georgia",0500000US13151,All establishments,3,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,2707,,275,,J,"Houston County, Georgia",0500000US13153,All establishments,7,J,10918,001
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Houston County, Georgia",0500000US13153,All establishments,3,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,57932,,6026,,G,"Jackson County, Georgia",0500000US13157,All establishments,27,G,243678,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Jackson County, Georgia",0500000US13157,All establishments,3,N,0,210
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Jackson County, Georgia",0500000US13157,All establishments,5,N,0,241
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Jackson County, Georgia",0500000US13157,All establishments,7,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,2907,,405,,H,"Laurens County, Georgia",0500000US13175,All establishments,3,H,12625,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,102,,7,,J,"Lee County, Georgia",0500000US13177,All establishments,4,J,412,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lee County, Georgia",0500000US13177,All establishments,4,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,16354,,884,,H,"Liberty County, Georgia",0500000US13179,All establishments,3,H,67346,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,19698,,1962,,J,"Lowndes County, Georgia",0500000US13185,All establishments,10,J,73127,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lowndes County, Georgia",0500000US13185,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,520,,81,,G,"Muscogee County, Georgia",0500000US13215,All establishments,13,H,2512,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Muscogee County, Georgia",0500000US13215,All establishments,9,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,967,,84,,G,"Newton County, Georgia",0500000US13217,All establishments,6,G,4327,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Newton County, Georgia",0500000US13217,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,11137,,773,,J,"Richmond County, Georgia",0500000US13245,All establishments,20,J,52920,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Richmond County, Georgia",0500000US13245,All establishments,8,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Richmond County, Georgia",0500000US13245,All establishments,4,N,0,220
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Richmond County, Georgia",0500000US13245,All establishments,3,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,1916,,168,,J,"Rockdale County, Georgia",0500000US13247,All establishments,6,J,10320,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,1044,,120,,H,"Thomas County, Georgia",0500000US13275,All establishments,4,H,4880,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,17266,,1138,,J,"Tift County, Georgia",0500000US13277,All establishments,12,J,74101,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Tift County, Georgia",0500000US13277,All establishments,5,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Tift County, Georgia",0500000US13277,All establishments,3,N,0,220
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,1538,,106,,H,"Toombs County, Georgia",0500000US13279,All establishments,3,H,8211,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,18931,,1487,,H,"Troup County, Georgia",0500000US13285,All establishments,14,H,62640,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Troup County, Georgia",0500000US13285,All establishments,5,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Troup County, Georgia",0500000US13285,All establishments,3,N,0,220
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Troup County, Georgia",0500000US13285,All establishments,3,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,15442,,1268,,J,"Walton County, Georgia",0500000US13297,All establishments,8,J,69201,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,15680,,852,,J,"Whitfield County, Georgia",0500000US13313,All establishments,20,J,63649,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Whitfield County, Georgia",0500000US13313,All establishments,8,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Whitfield County, Georgia",0500000US13313,All establishments,3,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Whitfield County, Georgia",0500000US13313,All establishments,3,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Whitfield County, Georgia",0500000US13313,All establishments,3,N,0,241
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Whitfield County, Georgia",0500000US13313,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,14995,,1363,,G,"Alamance County, North Carolina",0500000US37001,All establishments,13,G,63208,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Alamance County, North Carolina",0500000US37001,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,19059,,1872,,J,"Buncombe County, North Carolina",0500000US37021,All establishments,10,H,84305,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,172,,17,,H,"Burke County, North Carolina",0500000US37023,All establishments,3,G,698,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,16262,,1900,,H,"Cabarrus County, North Carolina",0500000US37025,All establishments,15,G,64835,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Cabarrus County, North Carolina",0500000US37025,All establishments,7,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,23420,,1563,,J,"Catawba County, North Carolina",0500000US37035,All establishments,19,J,95230,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Catawba County, North Carolina",0500000US37035,All establishments,5,N,0,210
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Catawba County, North Carolina",0500000US37035,All establishments,5,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Catawba County, North Carolina",0500000US37035,All establishments,4,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,16924,,1476,,J,"Cleveland County, North Carolina",0500000US37045,All establishments,5,J,55216,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,3871,,288,,J,"Craven County, North Carolina",0500000US37049,All establishments,4,J,16984,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,18940,,1542,,J,"Cumberland County, North Carolina",0500000US37051,All establishments,5,J,56034,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,3236,,334,,H,"Davidson County, North Carolina",0500000US37057,All establishments,5,H,14150,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,7835,,551,,H,"Davie County, North Carolina",0500000US37059,All establishments,4,H,27146,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,7102,,1826,,H,"Durham County, North Carolina",0500000US37063,All establishments,19,J,32968,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Durham County, North Carolina",0500000US37063,All establishments,11,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,9095,,2183,,J,"Edgecombe County, North Carolina",0500000US37065,All establishments,6,J,53442,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Edgecombe County, North Carolina",0500000US37065,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,6105,,530,,H,"Forsyth County, North Carolina",0500000US37067,All establishments,27,H,25167,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Forsyth County, North Carolina",0500000US37067,All establishments,15,N,0,210
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Forsyth County, North Carolina",0500000US37067,All establishments,6,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,9826,,829,,H,"Gaston County, North Carolina",0500000US37071,All establishments,15,H,33492,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Gaston County, North Carolina",0500000US37071,All establishments,4,N,0,210
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Gaston County, North Carolina",0500000US37071,All establishments,4,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,4485,,1154,,J,"Granville County, North Carolina",0500000US37077,All establishments,4,J,17199,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,106284,,5611,,G,"Guilford County, North Carolina",0500000US37081,All establishments,56,G,288814,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Guilford County, North Carolina",0500000US37081,All establishments,18,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Guilford County, North Carolina",0500000US37081,All establishments,9,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Guilford County, North Carolina",0500000US37081,All establishments,5,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Guilford County, North Carolina",0500000US37081,All establishments,12,N,0,241
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Guilford County, North Carolina",0500000US37081,All establishments,3,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Guilford County, North Carolina",0500000US37081,All establishments,4,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,1976,,181,,H,"Halifax County, North Carolina",0500000US37083,All establishments,6,H,9601,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Halifax County, North Carolina",0500000US37083,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,7022,,1213,,J,"Harnett County, North Carolina",0500000US37085,All establishments,5,J,30757,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,529,,47,,H,"Henderson County, North Carolina",0500000US37089,All establishments,6,J,2363,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,954,,74,,H,"Hertford County, North Carolina",0500000US37091,All establishments,4,J,4578,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,12449,,1058,,J,"Iredell County, North Carolina",0500000US37097,All establishments,16,J,51608,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Iredell County, North Carolina",0500000US37097,All establishments,6,N,0,210
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Iredell County, North Carolina",0500000US37097,All establishments,6,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,3658,,381,,J,"Johnston County, North Carolina",0500000US37101,All establishments,10,J,18248,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Johnston County, North Carolina",0500000US37101,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,1519,,174,,J,"Lee County, North Carolina",0500000US37105,All establishments,5,J,7844,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,625,,35,,J,"Lenoir County, North Carolina",0500000US37107,All establishments,5,J,2110,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lenoir County, North Carolina",0500000US37107,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,2565,,65,,J,"Lincoln County, North Carolina",0500000US37109,All establishments,9,J,11368,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lincoln County, North Carolina",0500000US37109,All establishments,4,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lincoln County, North Carolina",0500000US37109,All establishments,3,N,0,220
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,70931,,6983,,G,"Mecklenburg County, North Carolina",0500000US37119,All establishments,101,H,293852,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mecklenburg County, North Carolina",0500000US37119,All establishments,31,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mecklenburg County, North Carolina",0500000US37119,All establishments,19,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mecklenburg County, North Carolina",0500000US37119,All establishments,21,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mecklenburg County, North Carolina",0500000US37119,All establishments,15,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mecklenburg County, North Carolina",0500000US37119,All establishments,4,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Mecklenburg County, North Carolina",0500000US37119,All establishments,7,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,823,,87,,G,"Nash County, North Carolina",0500000US37127,All establishments,5,G,2852,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,1865,,108,,H,"New Hanover County, North Carolina",0500000US37129,All establishments,17,J,8091,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"New Hanover County, North Carolina",0500000US37129,All establishments,8,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"New Hanover County, North Carolina",0500000US37129,All establishments,4,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"New Hanover County, North Carolina",0500000US37129,All establishments,4,N,0,230
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,10067,,1002,,H,"Northampton County, North Carolina",0500000US37131,All establishments,4,H,37069,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,751,,80,,H,"Orange County, North Carolina",0500000US37135,All establishments,4,H,3199,001
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Orange County, North Carolina",0500000US37135,All establishments,3,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,386,,34,,G,"Pitt County, North Carolina",0500000US37147,All establishments,4,H,1688,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,313,,66,,H,"Randolph County, North Carolina",0500000US37151,All establishments,5,H,1928,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,2298,,125,,H,"Robeson County, North Carolina",0500000US37155,All establishments,7,J,7676,001
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Robeson County, North Carolina",0500000US37155,All establishments,4,N,0,220
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,395,,28,,G,"Rockingham County, North Carolina",0500000US37157,All establishments,4,H,1735,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,11218,,1566,,H,"Rowan County, North Carolina",0500000US37159,All establishments,11,H,46898,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Rowan County, North Carolina",0500000US37159,All establishments,4,N,0,210
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Rowan County, North Carolina",0500000US37159,All establishments,3,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,282,,38,,J,"Rutherford County, North Carolina",0500000US37161,All establishments,4,J,1428,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,362,,55,,J,"Scotland County, North Carolina",0500000US37165,All establishments,3,J,2415,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,9868,,679,,H,"Union County, North Carolina",0500000US37179,All establishments,8,H,35575,001
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Union County, North Carolina",0500000US37179,All establishments,4,N,0,230
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,12734,,1363,,G,"Vance County, North Carolina",0500000US37181,All establishments,6,G,49181,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,14337,,937,,H,"Wake County, North Carolina",0500000US37183,All establishments,33,H,60405,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wake County, North Carolina",0500000US37183,All establishments,10,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wake County, North Carolina",0500000US37183,All establishments,7,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wake County, North Carolina",0500000US37183,All establishments,4,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wake County, North Carolina",0500000US37183,All establishments,5,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wake County, North Carolina",0500000US37183,All establishments,6,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,505,,80,,G,"Wayne County, North Carolina",0500000US37191,All establishments,6,G,2497,001
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wayne County, North Carolina",0500000US37191,All establishments,3,N,0,230
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,663,,67,,H,"Wilson County, North Carolina",0500000US37195,All establishments,6,H,3276,001
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wilson County, North Carolina",0500000US37195,All establishments,3,N,0,220
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,6438,,510,,J,"Aiken County, South Carolina",0500000US45003,All establishments,6,J,28774,001
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Aiken County, South Carolina",0500000US45003,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,12158,,1133,,J,"Anderson County, South Carolina",0500000US45007,All establishments,16,J,42453,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Anderson County, South Carolina",0500000US45007,All establishments,9,N,0,210
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Anderson County, South Carolina",0500000US45007,All establishments,3,N,0,230
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,50,,8,,H,"Beaufort County, South Carolina",0500000US45013,All establishments,3,G,355,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,23349,,2005,,H,"Berkeley County, South Carolina",0500000US45015,All establishments,36,H,106883,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Berkeley County, South Carolina",0500000US45015,All establishments,6,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Berkeley County, South Carolina",0500000US45015,All establishments,5,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Berkeley County, South Carolina",0500000US45015,All establishments,9,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Berkeley County, South Carolina",0500000US45015,All establishments,6,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Berkeley County, South Carolina",0500000US45015,All establishments,5,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Berkeley County, South Carolina",0500000US45015,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,16253,,1193,,G,"Charleston County, South Carolina",0500000US45019,All establishments,46,G,65443,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Charleston County, South Carolina",0500000US45019,All establishments,18,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Charleston County, South Carolina",0500000US45019,All establishments,6,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Charleston County, South Carolina",0500000US45019,All establishments,8,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Charleston County, South Carolina",0500000US45019,All establishments,7,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Charleston County, South Carolina",0500000US45019,All establishments,5,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,9347,,961,,J,"Cherokee County, South Carolina",0500000US45021,All establishments,5,J,36652,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,1412,,108,,J,"Dillon County, South Carolina",0500000US45033,All establishments,8,J,8117,001
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Dillon County, South Carolina",0500000US45033,All establishments,3,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,1719,,130,,H,"Dorchester County, South Carolina",0500000US45035,All establishments,7,J,7596,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Dorchester County, South Carolina",0500000US45035,All establishments,4,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,6576,,1014,,J,"Florence County, South Carolina",0500000US45041,All establishments,10,J,36694,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Florence County, South Carolina",0500000US45041,All establishments,3,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Florence County, South Carolina",0500000US45041,All establishments,5,N,0,220
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,24295,,1705,,H,"Greenville County, South Carolina",0500000US45045,All establishments,47,G,95372,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Greenville County, South Carolina",0500000US45045,All establishments,14,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Greenville County, South Carolina",0500000US45045,All establishments,8,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Greenville County, South Carolina",0500000US45045,All establishments,7,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Greenville County, South Carolina",0500000US45045,All establishments,9,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Greenville County, South Carolina",0500000US45045,All establishments,7,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,473,,89,,H,"Horry County, South Carolina",0500000US45051,All establishments,14,G,2718,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Horry County, South Carolina",0500000US45051,All establishments,8,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Horry County, South Carolina",0500000US45051,All establishments,4,N,0,220
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,301,,26,,H,"Jasper County, South Carolina",0500000US45053,All establishments,4,J,2312,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,18853,,1129,,J,"Kershaw County, South Carolina",0500000US45055,All establishments,8,J,73919,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Kershaw County, South Carolina",0500000US45055,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,13948,,1065,,J,"Laurens County, South Carolina",0500000US45059,All establishments,9,J,41936,001
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Laurens County, South Carolina",0500000US45059,All establishments,3,N,0,230
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,171,,24,,J,"Lee County, South Carolina",0500000US45061,All establishments,3,J,823,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,9731,,933,,G,"Lexington County, South Carolina",0500000US45063,All establishments,12,G,42482,001
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Lexington County, South Carolina",0500000US45063,All establishments,4,N,0,230
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,131,,9,,J,"Marion County, South Carolina",0500000US45067,All establishments,3,J,566,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,174,,15,,H,"Newberry County, South Carolina",0500000US45071,All establishments,3,G,744,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,87,,10,,J,"Oconee County, South Carolina",0500000US45073,All establishments,3,G,388,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,2431,,547,,J,"Orangeburg County, South Carolina",0500000US45075,All establishments,5,J,9962,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,286,,24,,J,"Pickens County, South Carolina",0500000US45077,All establishments,4,J,1076,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Pickens County, South Carolina",0500000US45077,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,6543,,533,,G,"Richland County, South Carolina",0500000US45079,All establishments,20,G,28371,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Richland County, South Carolina",0500000US45079,All establishments,4,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Richland County, South Carolina",0500000US45079,All establishments,8,N,0,220
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Richland County, South Carolina",0500000US45079,All establishments,3,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,28151,,2560,,H,"Spartanburg County, South Carolina",0500000US45083,All establishments,46,H,105312,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Spartanburg County, South Carolina",0500000US45083,All establishments,14,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Spartanburg County, South Carolina",0500000US45083,All establishments,9,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Spartanburg County, South Carolina",0500000US45083,All establishments,7,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Spartanburg County, South Carolina",0500000US45083,All establishments,4,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Spartanburg County, South Carolina",0500000US45083,All establishments,4,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Spartanburg County, South Carolina",0500000US45083,All establishments,4,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Spartanburg County, South Carolina",0500000US45083,All establishments,4,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,12649,,813,,H,"Union County, South Carolina",0500000US45087,All establishments,3,H,44438,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,58617,,4848,,H,"York County, South Carolina",0500000US45091,All establishments,29,J,215300,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"York County, South Carolina",0500000US45091,All establishments,9,N,0,210
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"York County, South Carolina",0500000US45091,All establishments,4,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"York County, South Carolina",0500000US45091,All establishments,5,N,0,241
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"York County, South Carolina",0500000US45091,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,10975,,811,,H,"Bedford County, Tennessee",0500000US47003,All establishments,8,H,40216,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Bedford County, Tennessee",0500000US47003,All establishments,4,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,926,,92,,H,"Blount County, Tennessee",0500000US47009,All establishments,10,H,4237,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Blount County, Tennessee",0500000US47009,All establishments,4,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Blount County, Tennessee",0500000US47009,All establishments,3,N,0,220
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,13514,,1075,,J,"Bradley County, Tennessee",0500000US47011,All establishments,10,J,63750,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Bradley County, Tennessee",0500000US47011,All establishments,4,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,480,,45,,H,"Coffee County, Tennessee",0500000US47031,All establishments,4,G,1991,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,25077,,3040,,G,"Davidson County, Tennessee",0500000US47037,All establishments,54,H,104866,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Davidson County, Tennessee",0500000US47037,All establishments,18,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Davidson County, Tennessee",0500000US47037,All establishments,13,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Davidson County, Tennessee",0500000US47037,All establishments,11,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Davidson County, Tennessee",0500000US47037,All establishments,4,N,0,241
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Davidson County, Tennessee",0500000US47037,All establishments,3,N,0,251
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,581,,83,,J,"Gibson County, Tennessee",0500000US47053,All establishments,3,J,3046,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,13954,,1154,,J,"Greene County, Tennessee",0500000US47059,All establishments,6,J,46794,001
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Greene County, Tennessee",0500000US47059,All establishments,3,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,10132,,988,,G,"Hamilton County, Tennessee",0500000US47065,All establishments,31,G,53478,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hamilton County, Tennessee",0500000US47065,All establishments,11,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hamilton County, Tennessee",0500000US47065,All establishments,5,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hamilton County, Tennessee",0500000US47065,All establishments,6,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Hamilton County, Tennessee",0500000US47065,All establishments,4,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,878,,92,,J,"Humphreys County, Tennessee",0500000US47085,All establishments,3,J,3520,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,16861,,1374,,G,"Knox County, Tennessee",0500000US47093,All establishments,29,G,78445,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Knox County, Tennessee",0500000US47093,All establishments,9,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Knox County, Tennessee",0500000US47093,All establishments,5,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Knox County, Tennessee",0500000US47093,All establishments,6,N,0,230
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Knox County, Tennessee",0500000US47093,All establishments,4,N,0,242
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,2181,,157,,J,"Loudon County, Tennessee",0500000US47105,All establishments,4,J,9176,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,324,,23,,J,"McMinn County, Tennessee",0500000US47107,All establishments,6,J,1319,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"McMinn County, Tennessee",0500000US47107,All establishments,5,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,3801,,447,,H,"Madison County, Tennessee",0500000US47113,All establishments,8,J,18207,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Madison County, Tennessee",0500000US47113,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,232,,17,,H,"Maury County, Tennessee",0500000US47119,All establishments,5,J,800,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Maury County, Tennessee",0500000US47119,All establishments,4,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,2139,,205,,H,"Monroe County, Tennessee",0500000US47123,All establishments,8,J,10402,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Monroe County, Tennessee",0500000US47123,All establishments,4,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,609,,33,,J,"Montgomery County, Tennessee",0500000US47125,All establishments,5,J,2731,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Montgomery County, Tennessee",0500000US47125,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,5990,,922,,J,"Putnam County, Tennessee",0500000US47141,All establishments,4,J,27169,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,13663,,1700,,H,"Robertson County, Tennessee",0500000US47147,All establishments,7,H,61250,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,29294,,2762,,H,"Rutherford County, Tennessee",0500000US47149,All establishments,44,H,125928,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Rutherford County, Tennessee",0500000US47149,All establishments,8,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Rutherford County, Tennessee",0500000US47149,All establishments,4,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Rutherford County, Tennessee",0500000US47149,All establishments,9,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Rutherford County, Tennessee",0500000US47149,All establishments,9,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Rutherford County, Tennessee",0500000US47149,All establishments,5,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Rutherford County, Tennessee",0500000US47149,All establishments,6,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Rutherford County, Tennessee",0500000US47149,All establishments,3,N,0,252
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,175277,,16581,,G,"Shelby County, Tennessee",0500000US47157,All establishments,154,H,802568,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Shelby County, Tennessee",0500000US47157,All establishments,28,N,0,210
+Establishments with 5 to 9 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Shelby County, Tennessee",0500000US47157,All establishments,22,N,0,220
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Shelby County, Tennessee",0500000US47157,All establishments,31,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Shelby County, Tennessee",0500000US47157,All establishments,23,N,0,241
+Establishments with 50 to 99 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Shelby County, Tennessee",0500000US47157,All establishments,12,N,0,242
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Shelby County, Tennessee",0500000US47157,All establishments,25,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Shelby County, Tennessee",0500000US47157,All establishments,5,N,0,252
+Establishments with 500 to 999 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Shelby County, Tennessee",0500000US47157,All establishments,5,N,0,254
+"Establishments with 1,000 employees or more",N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Shelby County, Tennessee",0500000US47157,All establishments,3,N,0,260
+All establishments,,0,Warehousing and storage,0,001,2022,,,H,,493,0,4997,,529,,H,"Sullivan County, Tennessee",0500000US47163,All establishments,8,H,22917,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Sullivan County, Tennessee",0500000US47163,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,23929,,2831,,J,"Sumner County, Tennessee",0500000US47165,All establishments,14,J,94890,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Sumner County, Tennessee",0500000US47165,All establishments,4,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,441,,69,,G,"Warren County, Tennessee",0500000US47177,All establishments,3,G,2235,001
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,431,,49,,H,"Washington County, Tennessee",0500000US47179,All establishments,6,J,1881,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Washington County, Tennessee",0500000US47179,All establishments,3,N,0,210
+All establishments,,0,Warehousing and storage,0,001,2022,,,J,,493,0,3995,,313,,J,"Williamson County, Tennessee",0500000US47187,All establishments,12,J,17407,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Williamson County, Tennessee",0500000US47187,All establishments,4,N,0,210
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Williamson County, Tennessee",0500000US47187,All establishments,4,N,0,241
+All establishments,,0,Warehousing and storage,0,001,2022,,,G,,493,0,56325,,4559,,G,"Wilson County, Tennessee",0500000US47189,All establishments,37,G,241393,001
+Establishments with less than 5 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wilson County, Tennessee",0500000US47189,All establishments,7,N,0,210
+Establishments with 10 to 19 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wilson County, Tennessee",0500000US47189,All establishments,4,N,0,230
+Establishments with 20 to 49 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wilson County, Tennessee",0500000US47189,All establishments,8,N,0,241
+Establishments with 100 to 249 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wilson County, Tennessee",0500000US47189,All establishments,8,N,0,251
+Establishments with 250 to 499 employees,N,0,Warehousing and storage,0,001,2022,,N,N,,493,0,0,,0,N,N,"Wilson County, Tennessee",0500000US47189,All establishments,6,N,0,252
